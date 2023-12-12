@@ -5,7 +5,16 @@ EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Scenes:
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/door.unity
     guid: 8124e5870f4fd4c779e7a5f994e84ad1
+  - enabled: 0
+    path: Assets/Scenes/intro.unity
+    guid: 1467719a35760df9da6b6491441bc37a
+  - enabled: 1
+    path: Assets/Scenes/walk.unity
+    guid: f56507780931ad720b30bbc13c0bf810
+  - enabled: 0
+    path: Assets/Scenes/Vent 1.unity
+    guid: f9f707265cd9ee25790b1447e2d92668
   m_configObjects: {}
